@@ -4,6 +4,8 @@ A 3d model of any minecraft skin that has head and mouth tracking, opening the m
 Made by Marlo with the help of Claude AI and Google Gemini
 ------------------------------------------------------------------------------------------------------------------------------
 
+*THERES A JAVA ERROR WHEN YOU OPEN THIS, YOU ARE FREE TO CLOSE IT AS IT DOESN'T DO ANYTHIGN AS FAR AS I KNOW*
+
 Use the sliders to mess with the head until you like how it looks
 Any minecraft skin is supported (as long as it's usable in vanilla)
 The head will start off kinda funky, so just use the recalibrate button
